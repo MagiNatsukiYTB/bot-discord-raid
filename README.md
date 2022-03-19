@@ -1,0 +1,4 @@
+- 👋 Hellu, Tôi là Magi Natsuki
+- 👀 Tôi hiện tại là 1 coder về web, tool, bot discord
+- 🌱 Tôi hiện tại đang ngày càng học thêm nhiều loại ngôn ngữ lập trình khác
+- 💞️ Cảm ơn bạn đã biết đến tôi và hãy tim cho tui nếu thích code của tui.
